@@ -7,6 +7,11 @@ This project involves creating a simple weather application for the web using HT
   * Humidity
   * Wind speed
 
+![Screenshot 2024-10-05 225115](https://github.com/user-attachments/assets/94a67d2c-5042-450d-870b-f6381bbe9cb3)
+
+
+    
+
 >City Search Functionality: The app includes a search box where users can input the name of any city to get real-time weather information for that location.
 
 ## Key Technologies Used:
