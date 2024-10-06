@@ -2,7 +2,7 @@
 This project involves creating a simple weather application for the web using HTML, CSS, and JavaScript. The application fetches live weather data from the OpenWeatherMap API and displays it on the website.
 
 ## Current Weather Information: Users can retrieve the following data for any city:
-  * Temperature (in Celsius or Fahrenheit)
+  * Temperature (in Celsius)
   * Weather conditions (e.g., sunny, rainy)
   * Humidity
   * Wind speed
